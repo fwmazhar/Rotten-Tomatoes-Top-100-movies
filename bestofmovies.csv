@@ -1,0 +1,101 @@
+ranking,critic_score,title,number_of_critic_ratings,audience_score,number_of_audience_ratings
+1,99,L.A. Confidential,165,94,100000
+2,97,The Godfather,151,98,250000
+3,99,Casablanca,136,95,250000
+4,100,Seven Samurai,97,97,50000
+5,99,Parasite,482,90,5000
+6,98,Schindler's List,137,97,250000
+7,96,Top Gun: Maverick,477,99,50000
+8,100,Toy Story 2,171,87,250000
+9,98,Chinatown,144,93,50000
+10,99,On the Waterfront,116,95,50000
+11,99,The Battle of Algiers,93,95,10000
+12,100,Toy Story,96,92,250000
+13,98,Rear Window,130,95,100000
+14,98,Modern Times,113,95,25000
+15,99,How to Train Your Dragon,214,91,250000
+16,99,All About Eve,113,94,25000
+17,96,Spirited Away,222,96,250000
+18,98,Up,297,90,250000
+19,99,The Third Man,93,93,50000
+20,97,Spotlight,383,93,50000
+21,97,Spider-Man: Into the Spider-Verse,400,94,25000
+22,100,The Philadelphia Story,105,93,25000
+23,99,Finding Nemo,270,86,250000
+24,100,Singin' in the Rain,76,95,100000
+25,100,12 Angry Men,61,97,100000
+26,98,Toy Story 3,313,90,250000
+27,98,Sunset Boulevard,114,94,50000
+28,97,Coco,358,94,25000
+29,96,"The Godfather, Part II",126,97,250000
+30,100,Three Colors: Red,61,94,25000
+31,99,Selma,315,86,50000
+32,98,Zootopia,298,92,100000
+33,99,Citizen Kane,133,90,100000
+34,97,Annie Hall,129,92,100000
+35,100,Cool Hand Luke,56,95,50000
+36,97,The Holdovers,357,92,1000
+37,98,Inside Out,384,89,100000
+38,98,Dr. Strangelove Or: How I Learned to Stop Worrying and Love the Bomb,96,94,100000
+39,98,Let the Right One In,195,90,50000
+40,95,The Lord of the Rings: The Two Towers,259,95,250000
+41,97,Knives Out,472,92,25000
+42,100,M,64,95,25000
+43,97,Toy Story 4,459,94,50000
+44,98,The Wrestler,232,88,100000
+45,95,Goodfellas,164,97,250000
+46,98,The Wizard of Oz,169,89,250000
+47,97,Double Indemnity,110,95,25000
+48,97,Psycho,116,95,100000
+49,99,Paddington 2,253,88,5000
+50,100,Before Sunrise,50,93,50000
+51,94,The Dark Knight,347,94,250000
+52,99,The Maltese Falcon,110,91,50000
+53,98,It Happened One Night,110,93,25000
+54,100,The Wages of Fear,52,95,5000
+55,97,North by Northwest,115,94,50000
+56,99,Bicycle Thieves,71,94,25000
+57,93,Alien,201,94,250000
+58,96,Argo,365,90,100000
+59,98,Get Out,402,86,50000
+60,100,The Kid,50,95,10000
+61,96,Mission: Impossible - Dead Reckoning Part One,433,94,5000
+62,95,The Pianist,190,96,250000
+63,100,Kind Hearts and Coronets,50,94,5000
+64,99,The 400 Blows,71,94,25000
+65,100,Grave of the Fireflies,46,95,50000
+66,98,The Big Sick,307,88,25000
+67,98,Minari,326,87,1000
+68,97,Portrait of a Lady on Fire,337,92,250
+69,100,The Treasure of the Sierra Madre,55,93,25000
+70,97,Apocalypse Now,97,94,250000
+71,97,Mission: Impossible - Fallout,442,88,10000
+72,98,The Last Picture Show,116,89,10000
+73,100,Tampopo,57,93,5000
+74,97,Mad Max: Fury Road,440,86,100000
+75,100,Tokyo Story,53,93,10000
+76,98,A Hard Day's Night,109,89,50000
+77,97,Metropolis,138,92,50000
+78,97,Good Will Hunting,91,94,250000
+79,100,The Gold Rush,54,93,10000
+80,98,Aliens,87,94,250000
+81,95,Spider-Man: Across the Spider-Verse,386,94,10000
+82,97,"The Good, the Bad and the Ugly",77,97,100000
+83,96,Harry Potter and the Deathly Hallows: Part 2,333,89,250000
+84,95,The Silence of the Lambs,153,95,250000
+85,100,Fanny and Alexander,45,94,10000
+86,100,Laura,66,90,10000
+87,99,The Shop Around the Corner,97,91,10000
+88,99,His Girl Friday,104,90,10000
+89,98,All Quiet on the Western Front,90,89,10000
+90,96,"Monsters, Inc.",199,90,250000
+91,100,Nights of Cabiria,45,94,10000
+92,98,Pather Panchali,82,93,5000
+93,100,Meet Me in St. Louis,80,87,25000
+94,100,Witness for the Prosecution,40,95,5000
+95,99,Eighth Grade,322,82,5000
+96,98,Rebecca,107,92,25000
+97,100,Stalker,44,92,25000
+98,100,The Terminator,70,89,250000
+99,94,Memento,186,94,250000
+100,96,The Social Network,335,87,100000
