@@ -1,5 +1,6 @@
-# rottentomatoes Best 100 movies
+# Rotten Tomatoes Top Best 100 movies of all time 
 This is a python script that gather data from rottentomatoes website accroding to the following metrics :
+
 1 - Ranking
 2 - Critical Rating
 3 - Title of the movie 
